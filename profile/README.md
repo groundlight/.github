@@ -1,7 +1,7 @@
 # Groundlight
 ## Computer Vision powered by Natural Language
 
-Groundlight makes it simple to build reliable visual applications.  For more info, see...
+Groundlight's Escalation Technology combines the power of generative AI with our Visual LLM, with the speed of edge computing, and the reliability of real-time human oversight.  For more info, see...
 
 - [Code Documentation](https://code.groundlight.ai/python-sdk/docs/getting-started)
 - [Python SDK on PyPi](https://pypi.org/project/groundlight/) or [GitHub](https://github.com/groundlight/python-sdk)
